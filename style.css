@@ -1,0 +1,9 @@
+.shift-right{
+    display: flex;
+    justify-content:flex-end;
+}
+.bg{
+    background-image: url(images/PC.png);
+    width: 50;
+    height: 50;
+}
